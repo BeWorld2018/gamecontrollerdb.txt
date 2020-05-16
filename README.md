@@ -1,6 +1,6 @@
 # GameControllerDB MORPHOS
 
-A MorphOS community sourced database of game controller mappings to be used with SDL2 Game Controller functionality.
+A MorphOS community source database of game controller mappings to be used with SDL2 Game Controller functionality.
 
 # Usage
 Download gamecontrollerdb.txt, place it in your app's directory and load it.
