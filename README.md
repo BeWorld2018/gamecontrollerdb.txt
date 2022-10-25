@@ -23,7 +23,7 @@ It is comprised of a controller GUID (`030000004c050000cc09000000000000`), a nam
 ## Mapping Tools
 There are a only one tool available now that let you create mappings.
 
-### [SDL2 ControllerMap](https://www.morphos-storage.net/?page=Development%2FLibrary&file=SDL2_Libraries.lha)
+### [SDL2 ControllerMap](https://www.morphos-storage.net/?page=Development%2FLibrary&file=SDL_2)
 The controllermap utility provided with SDL2 archive is the official tool to create these mappings.
 
 ## Resources
